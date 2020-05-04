@@ -1,0 +1,11 @@
+$bg: red;
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid red;
+}
+.nav-bar {
+  background-color: $bg;
+}
